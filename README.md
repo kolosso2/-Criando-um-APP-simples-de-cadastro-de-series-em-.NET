@@ -1,2 +1,5 @@
-# -Criando-um-APP-simples-de-cadastro-de-series-em-.NET
-um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado.
+# Digital Innovation One - Prática .NET
+
+## Criando uma APP de cadastro em memória
+
+[Slides](dio-dotnet-poo-lab-2.pdf)
